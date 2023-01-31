@@ -40,7 +40,7 @@ args) {
   
 }
 
-
+using System;
 class Program {
   public static void Main (string[] args) {
  int n=0,sum=0; //initialization
